@@ -17,10 +17,10 @@ There are a few ongoing projects that I have lined up in various states of devel
 - Spacecraft Asteroid Mission: replicating an old assignment from undergrad to architect a mission to a nearby asteroid.
 
 # Professional Endeavors
-- [Astra Space](https://astra.com/) | Propulsion Development Engineer
-- [Aurora Innovation](https://aurora.tech/) | Hardware Systems Engineer
-- [Uber ATG](https://www.uber.com/) (Acquired) | Autonomy Hardware Engineer
-- [SpaceX](https://www.spacex.com/) | Propulsion Development Engineer
+- [Astra Space](https://astra.com/) | Systems Engineer
+- [Aurora Innovation](https://aurora.tech/) | Systems Engineer
+- [Uber ATG](https://www.uber.com/) (Acquired) | Hardware Engineer
+- [SpaceX](https://www.spacex.com/) | Propulsion Engineer
 
 # Academic Endeavors
 - [University of Southern California](https://ame.usc.edu/), MS Aerospace Engineering '13
